@@ -4,38 +4,22 @@ Hello 👋🏼 thank you for checking out my app!
 
 ## Before running app locally
 
-Run `yarn install` to install all dependencies
+Run npm install to install all dependencies
 
 ### Compiles and hot-reloads for development
 
-`yarn start`
-
-or
-
-`npm start`
+npm run serve
 
 ### Running json server
 
-Open new terminal window/tab and run
-
-`yarn server`
-
-or
-
-`npm run server`
+npm run backend
 
 ### Compiles and minifies for production
 
-```
-yarn build
-```
+npm run build
 
 ### Lints and fixes files
 
-```
-yarn lint
-```
+npm run lint
 
-### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
